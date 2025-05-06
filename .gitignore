@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+venv_data_prep/
+.DS_Store
+pdfs/
+artifacts/
+adapters/
+data/
